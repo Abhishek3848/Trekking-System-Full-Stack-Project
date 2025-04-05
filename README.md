@@ -12,7 +12,6 @@
 - [📦 Technologies Used](#-technologies-used)
 - [🧩 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
-- [📸 Screenshots](#-screenshots)
 - [💡 Features](#-features)
 - [📌 Future Scope](#-future-scope)
 
@@ -24,15 +23,12 @@
 |------------------|------------------------------|----------------------------|
 | React.js         | Spring Boot (Java)           | Eureka Discovery Server    |
 | Axios            | Spring Data JPA, REST APIs   | Spring Cloud Gateway       |
-| Tailwind / CSS   | MySQL                        | Maven, Postman             |
+| CSS              | MySQL                        | Maven, Postman             |
 
 ---
 
-## 🧩 Project Structure
 
 
-
----
 
 ## 🚀 Getting Started
 
@@ -61,21 +57,17 @@
 3. `npm start`
 
 > The frontend should now run on `http://localhost:3000`  
-> Backend routes go through the gateway: `http://localhost:8080`
+> Backend routes go through the gateway: `http://localhost:9090`
 
 ---
 
-## 📸 Screenshots
 
-| Home Page | Events List | Booking Page |
-|-----------|-------------|--------------|
-| *(Add screenshots here later)* | | |
 
 ---
 
 ## 💡 Features
 
-- 🔐 User authentication and registration
+
 - 📅 View and book trekking events
 - 📦 Microservices for better scalability and modular design
 - 🚪 Centralized entry point via API Gateway
@@ -87,7 +79,7 @@
 
 - ⛅ Deploy on cloud platforms (like Render, Railway, or AWS)
 - 📈 Admin dashboard for managing events
-- 🧾 Email notifications and booking history
+- 🧾 booking history
 - 💳 Payment integration
 
 ---
